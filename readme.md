@@ -2,7 +2,7 @@
 
 Kullanıcıların film araması yapmasına ve popüler filmlerle ilgili bilgileri (puan, açıklama vb.) görmesine olanak tanıyan basit bir film uygulaması. Bu uygulama, [The Movie Database (TMDB)](https://www.themoviedb.org/) API'sini kullanarak popüler filmlerle ilgili bilgileri getirir.
 
-![Moview Uygulaması](/gif/movie.mp4)
+![Moview Uygulaması](/movie.mp4)
 
 ## 📑 Özellikler
 
